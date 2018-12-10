@@ -1,4 +1,3 @@
-//GLITCH caca :) Viens eval mdrr modules/owner/eval.js regarde a gauche*****
  var express = require('express');
 var app = express();
 
